@@ -1,4 +1,4 @@
-![zoro-roronoa](https://github.com/Rhaphie12/Rhaphie12/assets/117087910/7eb2ae85-9748-4d89-bfd7-e4fb861c7539)
+<img width="100%" alt="roronoa zoro" src="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299" />
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
