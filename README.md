@@ -1,4 +1,4 @@
-<img width="100%" alt="roronoa zoro" src="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299" />
+<img width="100%" alt="roronoa zoro" src="[https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299](https://i.pinimg.com/originals/6e/75/22/6e7522c1fafe73c2a68e25906a3d0956.gif)" />
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
