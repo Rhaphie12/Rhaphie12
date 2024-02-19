@@ -1,6 +1,7 @@
-<img width="100%" alt="roronoa zoro" src="[https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299](https://i.pinimg.com/originals/6e/75/22/6e7522c1fafe73c2a68e25906a3d0956.gif)" />
+![zoro-roronoa](https://github.com/Rhaphie12/Rhaphie12/assets/117087910/0dd1d3ef-dede-4270-b3d6-5e9ccf6a661f)
 
 # 💫 About Me:
+
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
 
 ## 🌐 Socials:
