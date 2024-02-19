@@ -1,7 +1,4 @@
-<div class="tenor-gif-embed" data-postid="21698299" data-share-method="host" data-aspect-ratio="1.77778" data-width="100%"><a href="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299">Zoro Roronoa GIF</a>from <a href="https://tenor.com/search/zoro-gifs">Zoro GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-
-
+<a href="https://github.com/Rhaphie12"><img alt="Codings" width="100%" src="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299"></a>
 # 💫 About Me:
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
 
