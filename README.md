@@ -1,4 +1,5 @@
 <a href="https://github.com/Rhaphie12"><img alt="Codings" width="1000" src="https://github.com/Rhaphie12/Rhaphie12/assets/117087910/632a0bab-3175-4dae-a01f-575e10c1cabe"></a>
+<hr>
 
 # 💫 About Me:
 👋 HI, Im Rhaphie Costante. <br>
