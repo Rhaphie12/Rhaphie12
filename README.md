@@ -1,12 +1,10 @@
 <a href="https://github.com/Rhaphie12"><img alt="Codings" width="1000" src="https://github.com/Rhaphie12/Rhaphie12/assets/117087910/632a0bab-3175-4dae-a01f-575e10c1cabe"></a>
 
-<hr>
-<h2 style="text-align: center; font-weight: bold;">Im Rhaphie Costante</h2>
-<h3 style="text-align: center;">BSIT Student</h3>
-<hr>
-
 # 💫 About Me:
-🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
+👋 HI, Im Rhaphie Costante
+🖥️ Currently 3rd year in BS Information Technology.
+🌱 I’m currently learning Web Development and Frontend Development.<br>
+🧑‍💻 Fun fact I like coding at night.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Rhaphie.costante29) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rhapcstnt) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/costante-rhaphie-c-2464812b5) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@rhapcstnt) 
