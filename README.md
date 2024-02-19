@@ -1,4 +1,7 @@
 <a href="https://github.com/Rhaphie12"><img alt="Codings" width="100%" src="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299"></a>
+
+
+
 # 💫 About Me:
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
 
