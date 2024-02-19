@@ -1,7 +1,9 @@
 <a href="https://github.com/Rhaphie12"><img alt="Codings" width="1000" src="https://github.com/Rhaphie12/Rhaphie12/assets/117087910/632a0bab-3175-4dae-a01f-575e10c1cabe"></a>
+
 <hr>
 <h2 style="text-align: center; font-weight: bold;">Im Rhaphie Costante</h2>
 <h3 style="text-align: center;">BSIT Student</h3>
+<hr>
 
 # 💫 About Me:
 🌱 I’m currently learning Web Development and Frontend Development.<br>⚡ Fun fact i like coding at night.
