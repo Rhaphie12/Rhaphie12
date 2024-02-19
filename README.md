@@ -1,4 +1,5 @@
-![zoro-roronoa](https://github.com/Rhaphie12/Rhaphie12/assets/117087910/0dd1d3ef-dede-4270-b3d6-5e9ccf6a661f)
+<img alt="Roronoa Zoro" width="100%" src="https://tenor.com/view/zoro-roronoa-roronoa-zoro-gif-21698299" />
+
 
 # 💫 About Me:
 
