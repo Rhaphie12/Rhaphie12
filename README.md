@@ -12,6 +12,7 @@
 
 ## 🏆 Certifications
 <h3>FreeCodeCamp (Web Design) Certificate</h3>
+
 ![FreeCodeCamp Certificate](https://github.com/Rhaphie12/Rhaphie12/assets/117087910/6c264e97-fe6b-4f58-bd19-5c69ca20d9b7)
 
 # 📊 GitHub Stats:
