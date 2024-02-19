@@ -14,8 +14,6 @@ FreeCodeCamp Certificate
 ![FreeCodeCamp Certificate](https://github.com/Rhaphie12/Rhaphie12/assets/117087910/6c264e97-fe6b-4f58-bd19-5c69ca20d9b7)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Rhaphie12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Rhaphie12&theme=synthwave&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Rhaphie12&theme=synthwave&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trophies
