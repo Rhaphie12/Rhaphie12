@@ -3,7 +3,7 @@
 
 # 💫 About Me:
 👋 HI, Im Rhaphie Costante. <br>
-🖥️ Currently 4th year in BS Information Technology. <br>
+🖥️ Graduated BS in Information Technology <br>
 🌱 I’m currently learning Web Development and Frontend Development.<br>
 🧑‍💻 Fun fact I like coding at night. 
 
